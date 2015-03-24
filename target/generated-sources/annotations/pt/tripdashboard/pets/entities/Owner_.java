@@ -6,7 +6,7 @@ import javax.persistence.metamodel.SingularAttribute;
 import javax.persistence.metamodel.StaticMetamodel;
 import pt.tripdashboard.pets.entities.Organization;
 
-@Generated(value="EclipseLink-2.5.2.v20140319-rNA", date="2015-03-23T17:16:21")
+@Generated(value="EclipseLink-2.5.2.v20140319-rNA", date="2015-03-24T11:48:24")
 @StaticMetamodel(Owner.class)
 public class Owner_ { 
 
